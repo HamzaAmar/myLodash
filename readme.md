@@ -1,3 +1,3 @@
-# about this repo
+# Lodash Clone 
 
-i create this repo to imporove my javascript and typescript skills and also can help some other people to understand  js
+I made this repo to make my skills in javascript up and have fun and for challanging my self that's it 
